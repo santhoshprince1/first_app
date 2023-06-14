@@ -1,0 +1,10 @@
+.middlecontent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    color: #1976d2;
+    background-color: #E7F1FD;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
